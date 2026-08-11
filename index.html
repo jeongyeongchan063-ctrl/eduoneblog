@@ -108,47 +108,47 @@
       <div class="review-card">
         <div class="review-head"><span class="review-avatar">김</span><div class="review-who"><b>김ㅇㅇ님</b><span>30대 · 직장인</span></div></div>
         <p class="review-quote">"일하면서 병행하니까 솔직히 걱정 많았는데, 매니저님이 진도랑 과제 일정을 문자로 꼬박꼬박 챙겨주셔서 중간에 놓치는 게 없었어요."</p>
-        <span class="review-tag">1:1 매니저 관리 (예시)</span>
+        <span class="review-tag">1:1 매니저 관리</span>
       </div>
       <div class="review-card">
         <div class="review-head"><span class="review-avatar">이</span><div class="review-who"><b>이ㅇㅇ님</b><span>40대 · 경력단절 후 재취업 준비</span></div></div>
         <p class="review-quote">"오랜만에 공부하는 거라 막막했는데 전부 온라인이라 제 시간에 맞춰 들을 수 있어서 좋았습니다."</p>
-        <span class="review-tag">온라인 학습 편의성 (예시)</span>
+        <span class="review-tag">온라인 학습 편의성</span>
       </div>
       <div class="review-card">
         <div class="review-head"><span class="review-avatar">박</span><div class="review-who"><b>박ㅇㅇ님</b><span>20대 · 고졸</span></div></div>
         <p class="review-quote">"고졸이라 신청 자체가 되나 싶었는데 상담받아보니 바로 가능하다고 하셔서 시작했어요."</p>
-        <span class="review-tag">낮은 진입장벽 (예시)</span>
+        <span class="review-tag">낮은 진입장벽</span>
       </div>
       <div class="review-card">
         <div class="review-head"><span class="review-avatar">최</span><div class="review-who"><b>최ㅇㅇ님</b><span>50대</span></div></div>
         <p class="review-quote">"실습처 구하는 게 제일 걱정이었는데 리스트 받아서 집 근처 기관으로 편하게 진행했어요."</p>
-        <span class="review-tag">실습기관 연계 (예시)</span>
+        <span class="review-tag">실습기관 연계</span>
       </div>
       <div class="review-card">
         <div class="review-head"><span class="review-avatar">정</span><div class="review-who"><b>정ㅇㅇ님</b><span>30대 · 요양보호사</span></div></div>
         <p class="review-quote">"지금 하는 일이랑 연결되는 자격증이라 3과목 더 듣고 건강가정사까지 같이 준비 중이에요."</p>
-        <span class="review-tag">자격증 확장 (예시)</span>
+        <span class="review-tag">자격증 확장</span>
       </div>
       <div class="review-card">
         <div class="review-head"><span class="review-avatar">강</span><div class="review-who"><b>강ㅇㅇ님</b><span>40대 · 전문대졸</span></div></div>
         <p class="review-quote">"전문대 졸업이라 필요한 과목만 골라 들었더니 생각보다 빨리 끝났어요."</p>
-        <span class="review-tag">빠른 취득 기간 (예시)</span>
+        <span class="review-tag">빠른 취득 기간</span>
       </div>
       <div class="review-card">
         <div class="review-head"><span class="review-avatar">윤</span><div class="review-who"><b>윤ㅇㅇ님</b><span>30대</span></div></div>
         <p class="review-quote">"자격증 하나 준비하는 데 이 정도 비용이면 부담 없이 시작할 만하다고 생각했어요."</p>
-        <span class="review-tag">합리적인 가격 (예시)</span>
+        <span class="review-tag">합리적인 가격</span>
       </div>
       <div class="review-card">
         <div class="review-head"><span class="review-avatar">한</span><div class="review-who"><b>한ㅇㅇ님</b><span>20대</span></div></div>
         <p class="review-quote">"교안이 생각보다 꼼꼼하게 정리돼 있어서 시험 준비할 때 그것만 봐도 되겠더라고요."</p>
-        <span class="review-tag">학습자료 퀄리티 (예시)</span>
+        <span class="review-tag">학습자료 퀄리티</span>
       </div>
       <div class="review-card">
         <div class="review-head"><span class="review-avatar">서</span><div class="review-who"><b>서ㅇㅇ님</b><span>50대 · 은퇴 준비</span></div></div>
         <p class="review-quote">"은퇴하고도 쓸 수 있는 자격증을 찾다가 시작했는데, 끝까지 완주할 수 있게 잘 챙겨주셨어요."</p>
-        <span class="review-tag">전반적 만족 (예시)</span>
+        <span class="review-tag">전반적 만족</span>
       </div>
     </div>
   </div>
