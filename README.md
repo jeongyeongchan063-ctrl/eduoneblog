@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>[샘플/미발행] 사회복지사 학습자 후기 | 원에듀평생교육원</title>
+<title>사회복지사 학습자 후기 | 원에듀평생교육원</title>
 <meta name="description" content="사회복지사 2급 학습자들의 이야기 — 원에듀평생교육원">
 <meta name="robots" content="noindex, nofollow">
 <style>
